@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.vertx:vertx-web-templ-freemarker:3.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-web-templ-freemarker/3.5.0/265ce84b37fd9cade68cb1c04f3d7feba772a0c7/vertx-web-templ-freemarker-3.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-web-templ-freemarker/3.5.0/f5689fb5fc7a0a45183af44276c0040c5c26f5b7/vertx-web-templ-freemarker-3.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
